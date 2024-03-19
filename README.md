@@ -2,7 +2,7 @@
 
 This npm package provides a custom wrapper around Axios, a promise-based HTTP client for the browser and Node.js. It simplifies common HTTP requests and includes CRUD (Create, Read, Update, Delete) operations.
 
-## Installation# NPM Package: Axios CRUD Operations
+## Installation# NPM Package: Paddock
 
 This npm package provides simple CRUD (Create, Read, Update, Delete) operations using Axios for making HTTP requests.
 
