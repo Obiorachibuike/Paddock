@@ -93,4 +93,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 You can install the package via npm:
 
 ```bash
-npm install custom-axios-wrapper
+npm install Paddock
